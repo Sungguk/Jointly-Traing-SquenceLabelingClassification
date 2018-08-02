@@ -4,6 +4,6 @@
    - Strongly correlation between topics of Text and meaning of words 
    - Representative example
    - sentence: "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" (https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo )
-  - Sparse Attention. cf. Attention in Question Answering and Machine Translation
+   - Sparse Attention. cf. Attention in Question Answering and Machine Translation
 2. Dataset of ATIS used
 3. Tensorflow
