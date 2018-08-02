@@ -5,5 +5,7 @@
    - Representative example
    - sentence: "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" (https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo )
    - Sparse Attention. cf. Attention in Question Answering and Machine Translation
-2. Dataset of ATIS used
+   - cf. "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" https://arxiv.org/pdf/1609.01454.pdf
+2. Dataset of ATIS:
+   - https://www.kaggle.com/siddhadev/atis-dataset
 3. Tensorflow
