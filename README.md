@@ -8,4 +8,5 @@
    - cf. "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" https://arxiv.org/pdf/1609.01454.pdf
 2. Dataset of ATIS:
    - https://www.kaggle.com/siddhadev/atis-dataset
-3. Tensorflow
+3. Code
+   - Tensorflow
